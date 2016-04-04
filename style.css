@@ -1,0 +1,30 @@
+img {
+  height: 150px;
+}
+body {
+  background-color: coral;
+
+}
+
+.buttonClass {
+display: inline-block;
+width: 500px;
+vertical-align: top;
+padding: 10px;
+
+
+}
+.moonRise  {
+  display: inline-block;
+  width: 400px;
+  vertical-align: top;
+
+
+}
+.chevy {
+  display: inline-block;
+  width: 900px;
+  vertical-align: top;
+
+
+}
